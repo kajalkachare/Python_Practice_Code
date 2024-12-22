@@ -1,9 +1,5 @@
 # Python_Practice_Code
 Here, We are performing simple python programs.
 # Calculate the sum and multiplication of two numbers
-def calculate(a,b):
-    sum=a+b
-    mul=a*b
-    return sum,mul
-sum_number,mul_number=calculate(20,30)
-print(f"sum:{sum_number},mul:{mul_number}")
+![Screenshot 2024-12-22 194327](https://github.com/user-attachments/assets/45411ad9-ddc7-4248-b082-ae09f1fe6cbf)
+
