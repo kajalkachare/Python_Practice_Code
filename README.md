@@ -1,6 +1,6 @@
 # Python_Practice_Code
 Here, We are performing simple python programs.
-#Calculate the sum and multiplication of two numbers
+# Calculate the sum and multiplication of two numbers
 def calculate(a,b):
     sum=a+b
     mul=a*b
